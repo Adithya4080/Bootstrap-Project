@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#navbar .navbar{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+/* banner section */
+#banner{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+#footer{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
